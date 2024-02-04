@@ -442,6 +442,9 @@ html,body{
   font-style: normal;
   font-weight: 700;
 }
+.quick_links{
+  flex: 1;
+}
 .information{
   flex: 1;
 }
